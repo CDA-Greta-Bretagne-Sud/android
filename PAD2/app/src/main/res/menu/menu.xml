@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/animaux"
+        android:title="Animaux" />
+    <item
+        android:id="@+id/instruments"
+        android:title="Instruments" />
+    <item
+        android:id="@+id/divers"
+        android:title="Divers" />
+    <item
+        android:id="@+id/fermer"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Fermer"
+        app:showAsAction="always|collapseActionView" />
+</menu>
