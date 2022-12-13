@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ira4-1</string>
+    <string name="main_message">Coucou comment ça va</string>
+    <string name="main_loginhint">Saisissez votre Login</string>
+    <string name="main_passwdhint">Saisissez votre Mot de passe</string>
+    <string name="main_valider">VALIDER</string>
+    <string name="main_effacer">EFFACER</string>
+    <string name="auth_login">Brigitte</string>
+    <string name="auth_passwd">Macron</string>
+    <string name="accueil_fermer">FERMER</string>
+    <string name="accueil_bienvenue">Bienvenue</string>
+    <string name="accueil_alarme">Alarme</string>
+    <string name="accueil_appel">Appel</string>
+    <string name="accueil_esaip">Esaip</string>
+    <string name="accueil_fb">Flappy Bird</string>
+    <string name="accueil_dj">Doodle Jump</string>
+    <string name="accueil_p4">Puissance4</string>
+    <string name="accueil_sms">SMS</string>
+    <string name="accueil_video">Video</string>
+    <string name="accueil_email">Email</string>
+
+
+
+
+
+</resources>
