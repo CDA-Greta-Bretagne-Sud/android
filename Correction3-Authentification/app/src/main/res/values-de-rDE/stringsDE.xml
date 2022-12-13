@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ira4-1</string>
+    <string name="main_message">Coucou comment ça va Deutch</string>
+    <string name="main_loginhint">Saisissez votre Login Deutch</string>
+    <string name="main_passwdhint">Saisissez votre Mot de passe Deutch</string>
+    <string name="main_valider">VALIDER Deutch</string>
+    <string name="main_effacer">EFFACER Deutch</string>
+    <string name="auth_login">Brigitte</string>
+    <string name="auth_passwd">Macron</string>
+    <string name="accueil_fermer">FERMER</string>
+    <string name="accueil_bienvenue">Bienvenue</string>
+</resources>
