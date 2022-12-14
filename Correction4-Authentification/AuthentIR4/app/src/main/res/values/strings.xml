@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AuthentIR4</string>
+    <string name="hint_login">Veuillez entrer votre login!</string>
+    <string name="hint_password">Veuillez entrer votre Mot de passe!</string>
+    <string name="effacer">Effacer</string>
+    <string name="valider">Valider</string>
+    <string name="quitter">Quitter</string>
+    <string name="login">toto</string>
+    <string name="mdp">titi</string>
+    <string name="logpasscorrect">Login et mot de passe corrects</string>
+    <string name="logpassincorrect">Login ou mot de passe incorrect</string>
+    <string name="alarme">Alarme</string>
+    <string name="appel">Téléphoner</string>
+    <string name="esaip">WEB</string>
+    <string name="email">EMAIL</string>
+    <string name="bb">BIGBUNNY</string>
+    <string name="fb">Flappy Bird</string>
+    <string name="dj">Doodle Jump</string>
+    <string name="p4">Puissance 4</string>
+    <string name="mdp512">f69624921ee6583a0c42e446f6f87d055da032f93d3d1c2b281d4d246727dd48d2ad907f7ca16a96191e2c1f59f5642b4b04792df7da1309f7488fd3f17ce2f4</string>
+
+
+</resources>
