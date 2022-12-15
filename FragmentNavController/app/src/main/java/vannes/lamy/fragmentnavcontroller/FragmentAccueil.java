@@ -50,7 +50,7 @@ public class FragmentAccueil extends Fragment implements Response.Listener<Bitma
                 new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Toast.makeText(getActivity(),"Erreur download:"+error,Toast.LENGTH_SHORT).show();
+               // Toast.makeText(getActivity(),"Erreur download:"+error,Toast.LENGTH_SHORT).show();
                 error.printStackTrace();
             }
         });
