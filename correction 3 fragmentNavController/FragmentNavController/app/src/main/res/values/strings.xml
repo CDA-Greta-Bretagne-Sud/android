@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentNavController</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentAccueil">FragmentAccueil</string>
+    <string name="fragmentA">FragmentA</string>
+    <string name="fragmentB">FragmentB</string>
+    <string name="todo">TODO</string>
+</resources>
