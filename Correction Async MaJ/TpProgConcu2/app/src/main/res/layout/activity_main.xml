@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Démarrage de la Tache .." >
+    </Button>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/startImg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Voir le téléchargement .." >
+    </Button>
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoView" />
+
+
+</LinearLayout>
