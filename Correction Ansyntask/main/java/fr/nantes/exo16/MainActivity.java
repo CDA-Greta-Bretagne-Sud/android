@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 	private Button startVid;
 	private ProgressBar progressBar;
 	private VideoView videoV;
-	final String url = "http://android.blowfish.fr/video/bigbunny.mp4";
+	final String url = "http://cda.greta-bretagne-sud.fr/bigbunny.mp4";
 	//stockage du fichier  sur rep partagé
 	File maVideo = new File(Environment.getExternalStorageDirectory()+File.separator+Environment.DIRECTORY_MOVIES + "/bigbunny.mp4");
 
